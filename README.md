@@ -22,3 +22,9 @@ The purpose of this project is to create a simple and efficient tool for summari
 ```bash
 git clone https://github.com/Anushmita-Dubey/pdf-summarizer-chatbot.git
 cd pdf-summarizer-chatbot
+```
+### ii) Install Dependencies
+```bash
+pip install -r requirements.txt
+```
+
